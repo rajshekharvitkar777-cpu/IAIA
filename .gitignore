@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.venv/
+.venv-iaia/
+.iaia/
+.env
+.env.*
+__pycache__/
+.pytest_cache/
+*.py[cod]
+backend/iaia.sqlite3
+backend/iaia.sqlite3-shm
+backend/iaia.sqlite3-wal
+*.tsbuildinfo
